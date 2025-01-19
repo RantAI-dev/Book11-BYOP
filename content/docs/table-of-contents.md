@@ -1,7 +1,7 @@
 ---
 weight: 200
 title: "Table of Contents"
-description: "'Beyond Operations'"
+description: "Beyond Operations"
 icon: "toc"
 date: "2025-01-18T23:29:03.369685+07:00"
 lastmod: "2025-01-18T23:29:03.369685+07:00"
